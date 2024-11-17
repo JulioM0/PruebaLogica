@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\bin\Debug\net8.0\PruebaLógica_JulioMedina.exe
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\bin\Debug\net8.0\PruebaLógica_JulioMedina.deps.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\bin\Debug\net8.0\PruebaLógica_JulioMedina.runtimeconfig.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\bin\Debug\net8.0\PruebaLógica_JulioMedina.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\bin\Debug\net8.0\PruebaLógica_JulioMedina.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.AssemblyInfo.cs
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\refint\PruebaLógica_JulioMedina.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\PruebaLógica_JulioMedina.genruntimeconfig.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLógica_JulioMedina\obj\Debug\net8.0\ref\PruebaLógica_JulioMedina.dll

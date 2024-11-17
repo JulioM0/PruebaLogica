@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\bin\Debug\net8.0\PruebaLecturayEscritura.exe
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\bin\Debug\net8.0\PruebaLecturayEscritura.deps.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\bin\Debug\net8.0\PruebaLecturayEscritura.runtimeconfig.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\bin\Debug\net8.0\PruebaLecturayEscritura.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\bin\Debug\net8.0\PruebaLecturayEscritura.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.AssemblyInfo.cs
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\refint\PruebaLecturayEscritura.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\PruebaLecturayEscritura.genruntimeconfig.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaLecturayEscritura\obj\Debug\net8.0\ref\PruebaLecturayEscritura.dll

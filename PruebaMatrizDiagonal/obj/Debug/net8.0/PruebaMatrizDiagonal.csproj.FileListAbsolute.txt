@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\bin\Debug\net8.0\PruebaMatrizDiagonal.exe
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\bin\Debug\net8.0\PruebaMatrizDiagonal.deps.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\bin\Debug\net8.0\PruebaMatrizDiagonal.runtimeconfig.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\bin\Debug\net8.0\PruebaMatrizDiagonal.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\bin\Debug\net8.0\PruebaMatrizDiagonal.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.AssemblyInfo.cs
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\refint\PruebaMatrizDiagonal.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\PruebaMatrizDiagonal.genruntimeconfig.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaMatrizDiagonal\obj\Debug\net8.0\ref\PruebaMatrizDiagonal.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\bin\Debug\net8.0\PruebaAñoBisiesto.exe
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\bin\Debug\net8.0\PruebaAñoBisiesto.deps.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\bin\Debug\net8.0\PruebaAñoBisiesto.runtimeconfig.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\bin\Debug\net8.0\PruebaAñoBisiesto.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\bin\Debug\net8.0\PruebaAñoBisiesto.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.AssemblyInfo.cs
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\refint\PruebaAñoBisiesto.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\PruebaAñoBisiesto.genruntimeconfig.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaAñoBisiesto\obj\Debug\net8.0\ref\PruebaAñoBisiesto.dll

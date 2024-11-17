@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\bin\Debug\net8.0\PruebaColaBancariaDeLaSuerte.exe
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\bin\Debug\net8.0\PruebaColaBancariaDeLaSuerte.deps.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\bin\Debug\net8.0\PruebaColaBancariaDeLaSuerte.runtimeconfig.json
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\bin\Debug\net8.0\PruebaColaBancariaDeLaSuerte.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\bin\Debug\net8.0\PruebaColaBancariaDeLaSuerte.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.AssemblyInfo.cs
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\refint\PruebaColaBancariaDeLaSuerte.dll
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.pdb
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\PruebaColaBancariaDeLaSuerte.genruntimeconfig.cache
+C:\Users\user\source\repos\PruebaLógica_JulioMedina\PruebaColaBancariaDeLaSuerte\obj\Debug\net8.0\ref\PruebaColaBancariaDeLaSuerte.dll
